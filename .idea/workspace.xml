@@ -34,8 +34,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="976">
-              <caret line="779" column="68" lean-forward="true" selection-start-line="779" selection-start-column="68" selection-end-line="779" selection-end-column="68" />
+            <state relative-caret-position="330">
+              <caret line="799" column="32" lean-forward="false" selection-start-line="799" selection-start-column="32" selection-end-line="799" selection-end-column="32" />
               <folding>
                 <element signature="n#style#0;n#ul#0;n#nav#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#ul#1;n#nav#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -98,7 +98,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>class=&quot;elastislide-carousel&quot;</find>
       <find>fitCount</find>
       <find>this.fitCount</find>
       <find>hidden</find>
@@ -128,6 +127,7 @@
       <find>fa-git</find>
       <find>dark</find>
       <find>php</find>
+      <find>typed.js</find>
     </findStrings>
   </component>
   <component name="GradleLocalSettings">
@@ -636,12 +636,12 @@
       <workItem from="1507626156280" duration="12240000" />
       <workItem from="1507740807161" duration="476000" />
       <workItem from="1507775186765" duration="11982000" />
-      <workItem from="1507810986259" duration="5630000" />
+      <workItem from="1507810986259" duration="6245000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="81622000" />
+    <option name="totallyTimeSpent" value="82237000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
@@ -924,8 +924,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="976">
-          <caret line="779" column="68" lean-forward="true" selection-start-line="779" selection-start-column="68" selection-end-line="779" selection-end-column="68" />
+        <state relative-caret-position="330">
+          <caret line="799" column="32" lean-forward="false" selection-start-line="799" selection-start-column="32" selection-end-line="799" selection-end-column="32" />
           <folding>
             <element signature="n#style#0;n#ul#0;n#nav#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#ul#1;n#nav#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
