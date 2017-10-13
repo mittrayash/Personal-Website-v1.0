@@ -7,7 +7,7 @@
 </script>
     	<!-- meta charec set -->
         <meta charset="utf-8">
-		
+
         <title>Yash Mittra</title>
 	    <link rel="shortcut icon" href="image/logo1.png">
         <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -18,11 +18,11 @@
 	    <link rel="stylesheet" type="text/css" href="css/elastislide.css" />
 		<link rel="stylesheet" type="text/css" href="css/custom.css" />
         <script src="js/modernizr.custom.17475.js"></script>
-       <link rel="stylesheet" href="http://davidstutz.github.io/bootstrap-multiselect/dist/css/bootstrap-multiselect.css" type="text/css"/>
-       <!-- <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">-->
+       <link rel="stylesheet" href="https://davidstutz.github.io/bootstrap-multiselect/dist/css/bootstrap-multiselect.css" type="text/css"/>
+       <!-- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">-->
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-      <!--  <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script> -->
-        <link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
+      <!--  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script> -->
+        <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
         <link href="https://d396qusza40orc.cloudfront.net/phoenixassets/web-frameworks/bootstrap-social.css" rel="stylesheet">
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
         <link rel="stylesheet" href="css/skills.css">
@@ -33,12 +33,12 @@
 <style>
 
 </style>
-        
-     
+
+
     </head>
-	
+
     <body >
-	
+
         <header id="navigation" class="navbar-fixed-top navbar ">
                 <div class="navbar-header">
                     <!-- responsive nav button -->
@@ -47,7 +47,7 @@
                         <i class="fa fa-bars fa-2x"></i>
                     </button>
 					<!-- /responsive nav button -->
-					
+
 					<!-- logo -->
 
 					<!-- /logo -->
@@ -114,7 +114,7 @@
                 </nav>
 				<!-- /main nav -->
 			        </header>
-        
+
 
         <div>
             <section class='page1' id="bgg">
@@ -696,7 +696,7 @@
 
 
 
-          
+
         <div class="footer-wrapper">
             <footer class="site-footer">
 
@@ -704,10 +704,10 @@
 
 			</footer><!-- .site-footer -->
 			</div>
-   
-    
+
+
    <!-- <script src="js/bootstrap.js"></script>-->
-      
+
        <script src="js/jquery.min.js"  type="text/javascript"></script>
 <!--<script src="js/bootstrap.min.js"  type="text/javascript"></script>-->
 		<!-- jquery easing -->
@@ -775,20 +775,20 @@ $(document).on('change', '.btn-file :file', function() {
 });
 
 </script>
-   
-    <script type="text/javascript" src="http://davidstutz.github.io/bootstrap-multiselect/dist/js/bootstrap-multiselect.js"></script>  
+
+    <script type="text/javascript" src="https://davidstutz.github.io/bootstrap-multiselect/dist/js/bootstrap-multiselect.js"></script>
     <script type="text/javascript" src="js/jquerypp.custom.js"></script>
 		<script type="text/javascript" src="js/jquery.elastislide.js"></script>
 		<script type="text/javascript">
-			
+
 			$( '#carousel' ).elastislide( {
 				minItems : 1
 			} );
 			$( '#carousel1' ).elastislide( {
 				minItems : 1
 			} );
-			
-		</script>  
+
+		</script>
 	 <script>
 $(function() {
     $('a[href*=#]:not([href=#])').click(function() {
@@ -802,7 +802,7 @@ $(function() {
         }
     });
 });
-</script> 
-        
+</script>
+
 </body>
 </html>
