@@ -10,6 +10,9 @@ body {
     line-height: 1.5;
     letter-spacing: 0.05em;
 }
+.cd-fixed-bg {
+	background-attachment: fixed !important;
+}
 video#backgroundvid { 
  right: 0; bottom: 0;
 min-width: 100%; min-height: 100%;
