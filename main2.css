@@ -5,7 +5,13 @@
     position: relative;
     overflow: hidden;
 }
-
+.a.btn.btn-success.fa.fa-envelope-o:before {
+    color:white !important;
+}
+.tech .fa-envelope-o:before {
+    color: white;
+    content: "\f003";
+}
 .btn-file input[type=file] {
     position: absolute;
     top: 0;
