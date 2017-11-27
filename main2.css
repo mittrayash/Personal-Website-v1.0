@@ -66,6 +66,16 @@ body{
     text-align: center;
     text-shadow: 5px 5px 5px #FFFFFF;
 }
+
+@media (max-width: 384px) { 
+    .headings2{
+		font-family: 'Josefin Sans', sans-serif;
+		font-weight: 400;
+		font-size: 50px;
+		text-align: center;
+		text-shadow: 5px 5px 5px #FFFFFF;
+    }
+}
 .proj-img {
     height: 150px;
     width: 150px;
