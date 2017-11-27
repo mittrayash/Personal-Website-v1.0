@@ -58,6 +58,14 @@ body{
     text-align: center;
     text-shadow: 5px 5px 5px #FFFFFF;
 }
+
+.headings2 {
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: 400;
+    font-size: 65px;
+    text-align: center;
+    text-shadow: 5px 5px 5px #FFFFFF;
+}
 .proj-img {
     height: 150px;
     width: 150px;
